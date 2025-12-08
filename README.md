@@ -181,4 +181,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 📞 Support
 
 For questions and support, please open an issue in the GitHub repository.
-
